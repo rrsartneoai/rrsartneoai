@@ -62,7 +62,7 @@ I'm eager to collaborate on projects that involve:
 ## Projects & Contributions
 
 *   **GridBot:** A project to control & manage smartgrid devices with python and AI, find it at [https://github.com/rrsartai8/GridBot](https://github.com/rrsartai8/GridBot)
-*   **Creative AI Experiments:** Check out my ongoing experiments with AI generative models here [https://github.com/rrsartneoai](https://github.com/rrsartneoai)
+*   **Creative AI Experiments:** Check out my ongoing experiments with AI generative models here (https://github.com/rrsartai8)
 
 ---
 
