@@ -5,7 +5,11 @@
 
 ---
 
-👨‍💻 All of my projects are available at [https://github.com/rrsartneoai](https://github.com/rrsartneoai)
+👨‍💻 All of my projects are available at 
+
+[https://github.com/rrsartai8]
+
+[https://github.com/rrsartneoai](https://github.com/rrsartneoai)
 
 ---
 
@@ -24,7 +28,7 @@
 
 ---
 
-- 📫 How to reach me: **rrsartai@proton.me**
+- 📫 How to reach me: **rrsartai@proton.me** **https://github.com/rrsartai8**
 
 ---
 
@@ -76,6 +80,8 @@ Let's connect! You can reach me here on GitHub, or if you prefer a more direct l
 I once trained an AI model to generate abstract art, and one of the pieces was selected for a local gallery exhibition! It's a testament to the potential of AI as a tool for artistic expression.
 
 ## Projects & Contributions
+
+https://github.com/rrsartai8
 
 https://github.com/rrsartneoai
 
