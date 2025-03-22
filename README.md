@@ -61,9 +61,9 @@ I'm eager to collaborate on projects that involve:
 
 ## Projects & Contributions
 
-*   **GridBot:** A project to control & manage smartgrid devices with python and AI, find it at [https://github.com/rrsartai8/GridBot](https://github.com/rrsartai8/GridBot)
 *   **Creative AI Experiments:** Check out my ongoing experiments with AI generative models here (https://github.com/rrsartai8)
-
+*   **The Smart Grid & Air Quality Dashboard system was developed as a tool for monitoring air quality and energy consumption. It uses advanced AI algorithms to analyze data and provide users with intelligent decision-making support.
+https://github.com/jazzops/smart-grid-gems-37-48-reviewhttps://github.com/jazzops/smart-grid-gems-37-48-review
 ---
 
 ## - ⚡ Inspiring fact 
